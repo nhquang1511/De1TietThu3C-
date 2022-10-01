@@ -1,0 +1,8 @@
+C:\Users\Administrator\source\repos\De1TietThu3\De1TietThu3\bin\Debug\De1TietThu3.exe.config
+C:\Users\Administrator\source\repos\De1TietThu3\De1TietThu3\bin\Debug\De1TietThu3.exe
+C:\Users\Administrator\source\repos\De1TietThu3\De1TietThu3\bin\Debug\De1TietThu3.pdb
+C:\Users\Administrator\source\repos\De1TietThu3\De1TietThu3\obj\Debug\De1TietThu3.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\De1TietThu3\De1TietThu3\obj\Debug\De1TietThu3.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\source\repos\De1TietThu3\De1TietThu3\obj\Debug\De1TietThu3.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\De1TietThu3\De1TietThu3\obj\Debug\De1TietThu3.exe
+C:\Users\Administrator\source\repos\De1TietThu3\De1TietThu3\obj\Debug\De1TietThu3.pdb
